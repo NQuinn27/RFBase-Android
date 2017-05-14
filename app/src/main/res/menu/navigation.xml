@@ -21,9 +21,4 @@
         android:icon="@drawable/icon_calendar"
         android:title="Calendar" />
 
-    <item
-        android:id="@+id/navigation_social"
-        android:icon="@drawable/icon_social"
-        android:title="Social" />
-
 </menu>
